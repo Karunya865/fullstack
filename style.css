@@ -1,0 +1,32 @@
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+img
+{
+    position:relative;
+    top:150px;
+    left:100px;
+}
+div.page{
+ 
+  height: 100vh;
+
+  
+}
+.sticky
+{
+  position: sticky;
+  top: 30px;
+}
